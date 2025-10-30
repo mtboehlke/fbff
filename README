@@ -1,7 +1,8 @@
 FBFF
 ====
 
-Fbff is a framebuffer/OSS media player using ffmpeg or libmpeg3.
+This fork of the framebuffer media player fbff uses libao instead of
+OSS for audio output.
 
 USAGE
 =====
