@@ -4,6 +4,9 @@ FBFF
 This fork of the framebuffer media player fbff uses libao instead of
 OSS for audio output.
 
+See https://www.xiph.org/ao/doc/config.html for libao configuration
+file options.
+
 USAGE
 =====
 
